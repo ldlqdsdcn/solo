@@ -397,12 +397,12 @@ public final class Option {
         /**
          * Default blog subtitle.
          */
-        public static final String DEFAULT_BLOG_SUBTITLE = "记录精彩的程序人生";
+        public static final String DEFAULT_BLOG_SUBTITLE = "记录精彩的水族世界";
 
         /**
          * Default skin directory name.
          */
-        public static final String DEFAULT_SKIN_DIR_NAME = "Jane";
+        public static final String DEFAULT_SKIN_DIR_NAME = "amaze";
 
         /**
          * Default language.
@@ -429,7 +429,7 @@ public final class Option {
         /**
          * Default meta keywords..
          */
-        public static final String DEFAULT_META_KEYWORDS = "Solo,Java,博客,开源";
+        public static final String DEFAULT_META_KEYWORDS = "草缸,海缸,水族箱,淡水";
 
         /**
          * Default meta description..
